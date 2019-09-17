@@ -1,7 +1,24 @@
-a {
+body.blaadjes {
+  background: #ffffff url('../../images/leaves.png') no-repeat center bottom;
+  background-size: cover;
+}
+
+#tekst1{
   margin-left: 690px;
 }
 
-p {
+#tekst2{
   margin-left: 600px;
+}
+
+.vinkje {
+  max-width: 100px;
+  margin-left: 725px;
+  margin-top: 220px;
+}
+
+.logo {
+  max-width: 100px;
+  margin-left: 355px;
+  margin-top: 20px;
 }
