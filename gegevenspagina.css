@@ -3,6 +3,12 @@ body {
   padding: 8px;
 }
 
+.logo {
+  max-width: 100px;
+  margin-left: 690px;
+  margin-top: 20px;
+}
+
 * {
   box-sizing: border-box;
 }
