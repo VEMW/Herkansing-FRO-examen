@@ -68,9 +68,9 @@
   margin-top: 20px;
 }
 
-.blaadjes {
-  width: 1800px;
-  position: absolute;
+body.leaves {
+  background: #ffffff url('../../images/leaves.png') no-repeat center bottom;
+  background-size: cover;
 }
 
 /*EINDE IMAGES*/
