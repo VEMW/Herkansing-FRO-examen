@@ -16,5 +16,5 @@
                          kledingcat.html,
                          laadpagina.html,
                          sportcat.html.
-<!-- <link rel="icon" href="../../images/logo.png"> --> erin gezet.
+link rel="icon" href="../../images/logo.png" erin gezet.
 
