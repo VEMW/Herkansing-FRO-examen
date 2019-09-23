@@ -1,3 +1,5 @@
+Link naar de website: http://25333.hosts1.ma-cloud.nl/bewijzenmap/froexamen2/code/html/homepagina.html
+
 06/09/2019: Startdocument op GitHub gezet.
 
 17/09/2019: Alle files op GitHub gezet.
