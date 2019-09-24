@@ -51,6 +51,17 @@ eurotekens toegevoegd.
                          sportcat.html(verwijderd),
                          waterfles.html(verwijderd).
 
+24/09/2019 17:20 update: lichamelijkeverzorgingcat.html(naam producten aangepast, euro teken toegevoegd),
+                         etencat.html(euro teken toegevoegd),
+                         lunchbox.html(aangemaakt, alles de goede naam gegeven),
+                         kledingcat.html(euro teken toegevoegd),
+                         schoenen.html(img class="shop-item-image" src="../../images/shoes.png", png in plaats van jpg),
+                         deodorant.html(aangemaakt, titel van pagina klopt, prijs klopt, naam product klopt),
+                         tandenborstelkoker.html(aangemaakt, titel van pagina klopt, prijs klopt, naam product klopt),
+                         zeep.html(aangemaakt, titel van pagina klopt, prijs klopt, naam product klopt),
+                         categorieen.css(titles minder/meer marge),
+                         homepagina.html(center id="tekst" class="tekst">Health For The World wilt dat de aarde weer mooi en gezond wordt.<br>, class tekst toegevoegd),
+                         homepagina.css(margin images aangepast).
 
 
 
