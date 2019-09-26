@@ -1,49 +1,56 @@
 <!DOCTYPE html>
-<html>
-
+<html lang="nl">
 <head>
-  <title>Health For The World</title>
-  <meta name="description" content="This is the description">
-  <link rel="icon" href="../../images/logo.png">
-  <link rel="stylesheet" href="../css/styles.css" />
+  <meta charset="UTF-8" />
+  <meta name="keywords" content="webshop,health,eten,kleding,huishoud,amsterdam,2019" />
+  <meta name="author" content="Valerie Wilsoe" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Webshop van Health For The World met tal van producten voor een goede leefstijl. Bestaat uit bijvoorbeeld eten, lichamelijke verzorging en dergelijke." />
+  <title>Welkom bij Health For The World - Alles voor het helpen van de wereld!</title>
+  <link rel="icon" href="../../images/logo.png" />
+  <link href="https://fonts.googleapis.com/css?family=Raleway:300,400,700" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="../css/styles.css" />
+
   <script src="cart.js" async></script>
 </head>
+<body class="product">
 
-<body>
-  <a href="homepagina.html">
-    <img src="../../images/logo.png" style="max-width: 150px; margin-left: 710px; margin-top: 20px;">
-  </a>
+<a href="index.html"><img src="../../images/logo.png" alt="logo" title="Ga terug naar de Home pagina" class="logo"></a>
 
-  <section class="container content-section">
-    <h2 class="section-header">Bamboe rietje</h2>
-    <div class="shop-items">
-      <div class="shop-item">
-        <span class="shop-item-title">Bamboe rietje</span>
-        <img class="shop-item-image" src="../../images/bamboerietje.png">
-        <div class="shop-item-details">
-          <span class="shop-item-price">€7.00</span>
-          <button class="btn btn-primary shop-item-button" type="button">Toevoegen</button>
-        </div>
-      </div>
-      <section class="container content-section">
-        <h2 class="section-header">Winkelmandje</h2>
-        <div class="cart-row">
-          <span class="cart-item cart-header cart-column">ITEM</span>
-          <span class="cart-price cart-header cart-column">PRIJS</span>
-          <span class="cart-quantity cart-header cart-column">AANTAL</span>
-        </div>
-        <div class="cart-items">
-        </div>
-        <div class="cart-total">
-          <strong class="cart-total-title">Totaal</strong>
-          <span class="cart-total-price">€0</span>
-        </div>
-        <div>
-          <a href="gegevenspagina.html">
-            <button class="btn btn-primary btn-purchase" type="button">KOPEN</button>
-        </div>
-      </section>
+<div class="container">
+	<h2 class="section-header">Bamboerietje</h2>
+
+	<div class="shop-items">
+		<div class="shop-item">
+			<span class="shop-item-title">Bamboerietje</span>
+			<img class="shop-item-image" src="../../images/bamboerietje.png" alt="bamboerietje">
+			<div class="shop-item-details">
+				<span class="shop-item-price">€7.00</span>
+				<button class="btn btn-primary shop-item-button" type="button">Toevoegen</button>
+			</div>
+		</div>
+
+
+		<div class="container content-section">
+			<h2 class="section-header">Winkelmandje</h2>
+			<div class="cart-row">
+				<span class="cart-item cart-header cart-column">ITEM</span>
+				<span class="cart-price cart-header cart-column">PRIJS</span>
+				<span class="cart-quantity cart-header cart-column">AANTAL</span>
+			</div>
+			<div class="cart-items"></div>
+			<div class="cart-total">
+				<strong class="cart-total-title">Totaal</strong>
+				<span class="cart-total-price">€0</span>
+			</div>
+			<a href="gegevenspagina.html"><button class="btn btn-primary btn-purchase" type="button">KOPEN</button></a>
+      <span class="tekst black">Bestaat uit 2 herbruikbare rietjes.
+        Helemaal gemaakt van bamboe!
+        Daarnaast zit er ook nog een milieuvriendelijk tasje bij waar de rietjes in kunnen en een rietjesborstel, zodat je de rietjes schoon kan houden!</span>
+		</div>
+
+	</div>
+</div>
 
 </body>
-
 </html>
