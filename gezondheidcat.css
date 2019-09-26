@@ -1,0 +1,94 @@
+/*START PRODUCTS*/
+body, html {
+  height: 100%;
+}
+
+body.leaves {
+  background: #ffffff url('../../images/leaves.png') no-repeat center bottom;
+  background-size: cover;
+}
+
+.products {
+  width: 75%;
+  text-align: center;
+  margin: 200px auto 0;
+}
+
+.product {
+  width: 33%;
+  float: left;
+  text-align: center;
+}
+
+.product img {
+  width: 100%;
+  max-width: 120px;
+  margin: 0 auto;
+  height: auto;
+  display: block;
+}
+
+.product span {
+  text-align: center;
+}
+
+.products a {}
+
+.products a:hover {
+  opacity: 0.8;
+}
+
+@media only screen and (max-width: 600px) {
+  .products {
+    border: 10px;
+  }
+
+  * {
+    max-width: 100% !important;
+    margin: 0;
+  }
+}
+
+/*EINDE TEKST*/
+/*START TEKST*/
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vw;
+}
+
+.threeD {
+  color: green;
+  white-space: nowrap;
+  position: absolute;
+  margin-left: 30px;
+  margin-top: 20px;
+  top: 30%;
+  left: 49%;
+  transform: translate(-50%, -50%);
+  font-size: 3em;
+  font-family: sans-serif;
+  letter-spacing: 0.1em;
+  transition: 0.3s;
+  text-shadow: 1px 1px 0 green, 1px 2px 0 black, 1px 3px 0 black, 1px 4px 0 black,
+    1px 5px 0 black, 1px 6px 0 black, 1px 7px 0 black, 1px 8px 0 black,
+    5px 13px 15px black;
+}
+
+.threeD:hover {
+  transition: 0.3s;
+  transform: scale(1.1)translate(-50%, -50%);
+  text-shadow: 1px -1px 0 green, 1px -2px 0 black, 1px -3px 0 black,
+    1px -4px 0 black, 1px -5px 0 black, 1px -6px 0 black, 1px -7px 0 black,
+    1px -8px 0 black, 5px -13px 15px black, 5px -13px 25px black;
+}
+
+/*EINDE TEKST*/
+/*START IMAGES*/
+.logo {
+  display: block;
+  max-width: 130px;
+  margin: 30px auto 0;
+}
+
+/*EINDE IMAGES*/
