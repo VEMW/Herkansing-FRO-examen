@@ -63,13 +63,16 @@ eurotekens toegevoegd.
                          homepagina.html(center id="tekst" class="tekst">Health For The World wilt dat de aarde weer mooi en gezond wordt.<br>, class tekst toegevoegd),
                          homepagina.css(margin images aangepast).
                          
-26/09/2019 22:27 update: alle files aangepast
-                         categorieen zonder puntjes op de e
-                         gegevenspagina.css weg
-                         homepagina.css weg
-                         homepagina.html heet nu index.html
-                         loader.css weg
-                         success.css weg
+26/09/2019 22:27 update: alle files aangepast,
+                         categorieen zonder puntjes op de e,
+                         gegevenspagina.css weg,
+                         homepagina.css weg,
+                         homepagina.html heet nu index.html,
+                         loader.css weg,
+                         success.css weg.
+                         
+27/09/2019 20:01 update: index.html class winkels toegevoegd bij tekst winkels, class box toegevoegd,
+                         styles.css winkels toegevoegd met font size en font weight, class box toegevoegd.
 
 
 
