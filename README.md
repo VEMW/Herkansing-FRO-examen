@@ -1,5 +1,9 @@
 Link naar de website: http://25333.hosts1.ma-cloud.nl/bewijzenmap/froexamen2/code/html/homepagina.html
 
+User tests te vinden bij Usertest1 en Usertest2!!
+Seo rapporten te vinden bij bijvoorbeeld seokledingcat.png!!
+Framework aanpassing uitleg te vinden bij Framework!!
+
 06/09/2019: Startdocument op GitHub gezet.
 
 17/09/2019: Alle files op GitHub gezet.
